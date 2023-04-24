@@ -12,3 +12,7 @@ df = pd.read_csv("/content/vgsales.csv")
 ```
 
 <https://www.kaggle.com/datasets/gregorut/videogamesales>
+
+Enlace del video de la entrega 2:
+
+https://youtu.be/wSsO3aOSM_U
