@@ -15,6 +15,6 @@ df = pd.read_csv("/content/vgsales.csv")
 
 Para la entrega número 2 el dataset se puede cargar en el notebook desde el sitio de kaggle. Solo hace falta ejecutar en orden las primeras cinco celdas del archivo "01 exploracion y limpieza de datos.ipynb". en el punto que pide cargar un archivo (kaggle.json), este es el tooken de la cuenta personal de kaggle. este se descarga desde los ajustes de la cuenta de la página de kaggle en la sección API
 
-# Enlace del video de la entrega 2:
+## Enlace del video de la entrega 2:
 
 https://youtu.be/wSsO3aOSM_U
